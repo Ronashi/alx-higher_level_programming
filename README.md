@@ -1,1 +1,1 @@
-Hello Python i find peace
+private declaration with py
